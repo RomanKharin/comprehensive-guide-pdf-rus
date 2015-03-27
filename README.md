@@ -8,6 +8,6 @@
 [Перейти к чтению на Read the Docs](http://comprehensive-guide-pdf-rus.readthedocs.org/)
 
 
-
+[![Статус](https://readthedocs.org/projects/comprehensive-guide-pdf-rus/badge/?version=latest)](http://comprehensive-guide-pdf-rus.rtfd.org)
 
 ![cc-by-ca](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Лицензия Creative Commons ")
