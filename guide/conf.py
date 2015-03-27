@@ -34,7 +34,7 @@ on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 extensions = []
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['statictemplates']
+templates_path = ['_templates']
 
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
@@ -50,7 +50,7 @@ master_doc = 'index'
 # General information about the project.
 project = 'Исчерпывающее руководство по формату PDF'
 copyright = '2015, собрал и оформил romiq.kh@gmail.com'
-author = 'собрал и jформил romiq.kh@gmail.com'
+author = 'собрал и оформил romiq.kh@gmail.com'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
