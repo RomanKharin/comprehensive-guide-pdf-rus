@@ -6,7 +6,9 @@
 Содержание:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+
+   reference/index
 
 Оглавление и указатели
 ======================
