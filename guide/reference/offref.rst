@@ -82,10 +82,10 @@ PDF, 236 стр., eng, 849.3Кб.
 Версия формата 1.3
 ~~~~~~~~~~~~~~~~~~
 
-`Описание формата PDF версия 1.4 (3-я редакция) <http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/pdf/pdfs/pdf_reference_archives/PDFReference13.pdf>`_,
+`Описание формата PDF версия 1.3 (2-я редакция) <http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/pdf/pdfs/pdf_reference_archives/PDFReference13.pdf>`_,
 PDF, 696 стр., eng, 4.9Мб. (Jul 3, 2000)
 
-`Исправления к описанию версии 1.4 <http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/pdf/pdfs/pdf_reference_archives/PDFerrata.txt>`_,
+`Исправления к описанию версии 1.3 <http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/pdf/pdfs/pdf_reference_archives/PDFerrata.txt>`_,
 TXT, eng, 7.1Кб. (Final revision Jan 09, 2002)
 
 
