@@ -9,6 +9,7 @@
    :maxdepth: 1
 
    reference/index
+   links
 
 Оглавление и указатели
 ======================
